@@ -1,0 +1,5 @@
+Adapter
+
+Adapter modelində iki uyğunsuz tip bir-biri arasında əlaqə saxlaya bilər, çünki adapter ikisi arasında tərcüməçi kimi çıxış edir. 
+Bu, bir sinifin interfeysini müştəri tərəfindən gözlənilən interfeysə çevirdiyimiz kimi bir şeydir. 
+Bu, köhnə iki dirəkli rozetkaya yeni üç dirəkli elektrik ştepselinin daxil edilməsi probleminə bənzəyir; bir növ adapter və ya vasitəçi lazımdır.

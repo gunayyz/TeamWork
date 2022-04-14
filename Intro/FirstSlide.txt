@@ -1,0 +1,5 @@
+Struktur dizayn nümunələri nedir?
+
+Struktur dizayn nümunələri obyektlərin və siniflərin necə birləşdirilə biləcəyini və böyük bir struktur meydana gətirə 
+biləcəyini təsvir edən və obyektlər arasında münasibətləri həyata keçirməyin sadə yolunu 
+müəyyən etməklə dizaynı asanlaşdıran nümunələrdir.

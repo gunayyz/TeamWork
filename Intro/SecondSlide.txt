@@ -1,0 +1,7 @@
+Ne vaxt istifade olunur?
+
+Real vaxt tətbiqlərində bəzən bir sinfin strukturunu və ya siniflər arasındakı əlaqəni dəyişməli oluruq, lakin bu dəyişikliyin layihədən təsirlənməsini istəmirik. 
+Məsələn, iki sinifimiz varsa, İstifadəçi və Məhsul deyin. Məhsul sinfi İstifadəçi və Məhsul arasında birdən çox əlaqə yaradan İstifadəçi sinfi daxilində istifadə olunur. 
+Sabah bu iki sinif arasındakı struktur və ya əlaqələr dəyişir.
+Müştəri indi İstifadəçi və Məhsul sinifindən müstəqil şəkildə istifadə etmək istədiyi üçün Məhsul sinifini İstifadəçi sinfindən uzaqlaşdırmaq istəyir. 
+Bu, əslində struktur dəyişikliyidir və biz bu struktur dəyişikliyinin layihəmizə təsir etməsini istəmirik. Struktur Dizayn Nümunəsinin bizə kömək etdiyi yer budur.
